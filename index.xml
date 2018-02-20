@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrés Pérez-Figueroa on Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/</link>
+    <description>Recent content in Andrés Pérez-Figueroa on Andrés Pérez-Figueroa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrés Pérez-Figueroa</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Morphological and epigenetic variation in mussels from contrasting environments</title>
+      <link>http://anpefi.eu/publication/2018.watson/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2018.watson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redesigning the website</title>
+      <link>http://anpefi.eu/post/redesigning-the-website/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/post/redesigning-the-website/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve changed the website design.&lt;/p&gt;
+
+&lt;p&gt;For the last 2 years this site was relying on the &lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;Jekyll framework&lt;/a&gt; using the &lt;a href=&#34;https://mmistakes.github.io/minimal-mistakes/&#34; target=&#34;_blank&#34;&gt;Minimal Mistakes template&lt;/a&gt;. Recently, I started to dive deeper in &lt;a href=&#34;https://www.rstudio.com&#34; target=&#34;_blank&#34;&gt;Rstudio&lt;/a&gt;, &lt;a href=&#34;http://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;rmarkdown&lt;/a&gt; and the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;tidyverse&lt;/a&gt; ecosystem. Few days ago I discovered in Twitter about the new Yihui Xie&amp;rsquo;s package called &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; that allows to create static websites using Rmarkdown and &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;. After a quick read of the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;Xie&amp;rsquo;s book about this package&lt;/a&gt; I decided to change this website from Markdown+Jekyll to Rmarkdown+Blogdown+Hugo. Of course, the migration is quite easy as this website was almost empty and unchanged for these 2 years. In fact, this decision was boosted by the fact that I was trying to update Jekyll and found some troubles with ruby dependencies. Furthermore, the chapter 3.4 of the Xie&amp;rsquo;s book gave me the idea to avoid relying on having everything installed on the computer: using &lt;a href=&#34;https://travis-ci.org/&#34; target=&#34;_blank&#34;&gt;Travis CI&lt;/a&gt; to make the deployment to &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt; (where the website was already hosted in the repo &lt;a href=&#34;https://github.com/anpefi/anpefi.github.io&#34; target=&#34;_blank&#34;&gt;anpefi/anpefi.github.io&lt;/a&gt;). Although I already used Travis-CI for some of my programs, I did not use it to do the deployment. I was curious about how it would work and to pass this website to that system would allow me to practice. For this I had to create a new repository (&lt;a href=&#34;https://github.com/anpefi/anpefi.source&#34; target=&#34;_blank&#34;&gt;anpefi/anpefi-source&lt;/a&gt;) for the sources of the page, which, with each commit in the master, will be built in Travis-CI and the static html deployed in anpefi.github.io.&lt;/p&gt;
+
+&lt;p&gt;This is how the site looked in the last 2 years:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://anpefi.eu/img/posts/old.website.png&#34; alt=&#34;old layout&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, I use the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic template&lt;/a&gt; for Hugo that I think it looks great for a site like this. What do you think? Leave me your comments below.&lt;/p&gt;
+
+&lt;p&gt;My first impressions about the change from Jekyll to Hugo are very positive, and now it is easier to do everything from one place (Rstudio) and the pages are generated much faster and with a lighter load. The deployment via Travis also has an additional advantage, and that is that I do not depend on having the installation of R or Hugo on a computer. Now I can add content directly from the github website or from the mobile. It seems that the change has been a success. Now I just have to motivate myself to write some posts from time to time, but that&amp;rsquo;s another bussiness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Consequences of Purging and Linkage on Fitness and Genetic Diversity</title>
+      <link>http://anpefi.eu/publication/2016.bersabe/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2016.bersabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allelic diversity for neutral markers retains a higher adaptive potential for quantitative traits than expected heterozygosity</title>
+      <link>http://anpefi.eu/publication/2015.vilas/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2015.vilas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population structure and effective/census population size ratio in threatened three-spined stickleback populations from an isolated river basin in northwest Spain</title>
+      <link>http://anpefi.eu/publication/2015.apf.stickleback/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2015.apf.stickleback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide methylation study of diploid and triploid brown trout (*Salmo trutta* L.)</title>
+      <link>http://anpefi.eu/publication/2015.covelo-soto/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2015.covelo-soto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflict in outcomes for conservation based on population genetic diversity and genetic divergence approaches: a case study in the Japanese relictual conifer *Sciadopitys verticillata* (Sciadopityaceae)</title>
+      <link>http://anpefi.eu/publication/2014.worth/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2014.worth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The action of stabilizing selection, mutation, and drift on epistatic quantitative traits</title>
+      <link>http://anpefi.eu/publication/2014.avila/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2014.avila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental induced methylation changes associated with seawater adaptation in brown trout Author links open overlay panel</title>
+      <link>http://anpefi.eu/publication/2013.moran/</link>
+      <pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2013.moran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>msap: A tool for the statistical analysis of methylation-sensitive amplified polymorphism data</title>
+      <link>http://anpefi.eu/publication/2013.apf.msap/</link>
+      <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2013.apf.msap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conserving genomic variability in large mammals: Effect of population fluctuations and variance in male reproductive success on variability in Yellowstone bison</title>
+      <link>http://anpefi.eu/publication/2012.apf.bison/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2012.apf.bison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation study on the performance of differentiation-based methods to detect selected loci using linked neutral markers</title>
+      <link>http://anpefi.eu/publication/2012.vilas/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2012.vilas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methylation changes associated with early maturation stages in the Atlantic salmon</title>
+      <link>http://anpefi.eu/publication/2011.moran/</link>
+      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2011.moran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing three different methods to detect selective loci using dominant markers</title>
+      <link>http://anpefi.eu/publication/2010.apf.outliers/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2010.apf.outliers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
