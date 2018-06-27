@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/tags/git/</link>
+    <description>Recent content in Git on Andrés Pérez-Figueroa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrés Pérez-Figueroa</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://anpefi.eu/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Redesigning the website</title>
+      <link>http://anpefi.eu/post/redesigning-the-website/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/post/redesigning-the-website/</guid>
+      <description>I&amp;rsquo;ve changed the website design.
+For the last 2 years this site was relying on the Jekyll framework using the Minimal Mistakes template. Recently, I started to dive deeper in Rstudio, rmarkdown and the tidyverse ecosystem. Few days ago I discovered in Twitter about the new Yihui Xie&amp;rsquo;s package called blogdown that allows to create static websites using Rmarkdown and Hugo. After a quick read of the Xie&amp;rsquo;s book about this package I decided to change this website from Markdown+Jekyll to Rmarkdown+Blogdown+Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
