@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://anpefi.eu/publication/2018.romero/</loc>
+      <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://anpefi.eu/publication/2018.watson/</loc>
       <lastmod>2018-02-17T00:00:00+00:00</lastmod>
     </url>
@@ -140,6 +149,15 @@
     
     <url>
     
+      <loc>http://anpefi.eu/publication/2012.ch.methods/</loc>
+      <lastmod>2012-04-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://anpefi.eu/publication/2011.moran/</loc>
       <lastmod>2011-10-07T00:00:00+00:00</lastmod>
     </url>
@@ -158,6 +176,24 @@
     
     <url>
     
+      <loc>http://anpefi.eu/publication/2010.tr.bison/</loc>
+      <lastmod>2010-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2009.apf.epistasis/</loc>
+      <lastmod>2009-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://anpefi.eu/publication/2009.apf.metapop/</loc>
       <lastmod>2009-08-01T00:00:00+00:00</lastmod>
     </url>
@@ -167,8 +203,119 @@
     
     <url>
     
+      <loc>http://anpefi.eu/publication/2008.apf.ri/</loc>
+      <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2008.saura.frequencies/</loc>
+      <lastmod>2008-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2006.proc.apf/</loc>
+      <lastmod>2006-08-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2005.apf.ipsi/</loc>
+      <lastmod>2005-06-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2005.fernandez/</loc>
+      <lastmod>2005-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2005.apf.polymorp/</loc>
+      <lastmod>2005-04-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2004.rodriguez-ramilo/</loc>
+      <lastmod>2004-02-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2003.fernandez/</loc>
+      <lastmod>2003-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2002.proc.apf/</loc>
+      <lastmod>2002-08-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication_types/1/</loc>
+      <lastmod>2006-08-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://anpefi.eu/publication_types/2/</loc>
-      <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication_types/4/</loc>
+      <lastmod>2010-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication_types/6/</loc>
+      <lastmod>2012-04-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -227,7 +374,7 @@
     <url>
     
       <loc>http://anpefi.eu/publication_types/</loc>
-      <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+      <lastmod>2006-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -6,9 +6,18 @@
     <description>Recent content in Andrés Pérez-Figueroa on Andrés Pérez-Figueroa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrés Pérez-Figueroa</copyright>
+    <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RNA-seq coupled to proteomic analysis reveals high sperm proteome variation between two closely related marine mussel species</title>
+      <link>http://anpefi.eu/publication/2018.romero/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2018.romero/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Morphological and epigenetic variation in mussels from contrasting environments</title>
@@ -130,29 +139,20 @@
     </item>
     
     <item>
+      <title>Analysis and management of gene and allelic diversity in subdivided populations using the software program METAPOP.</title>
+      <link>http://anpefi.eu/publication/2012.ch.methods/</link>
+      <pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2012.ch.methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Methylation changes associated with early maturation stages in the Atlantic salmon</title>
       <link>http://anpefi.eu/publication/2011.moran/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://anpefi.eu/publication/2011.moran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing three different methods to detect selective loci using dominant markers</title>
-      <link>http://anpefi.eu/publication/2010.apf.outliers/</link>
-      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/publication/2010.apf.outliers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>METAPOP—A software for the management and analysis of subdivided populations in conservation programs</title>
-      <link>http://anpefi.eu/publication/2009.apf.metapop/</link>
-      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/publication/2009.apf.metapop/</guid>
       <description></description>
     </item>
     

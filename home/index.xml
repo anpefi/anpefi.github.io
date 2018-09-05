@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Andrés Pérez-Figueroa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrés Pérez-Figueroa</copyright>
+    <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://anpefi.eu/home/index.xml" rel="self" type="application/rss+xml" />
@@ -29,6 +29,15 @@
       
       <guid>http://anpefi.eu/home/about/</guid>
       <description>Hi! I&amp;rsquo;m Andrés Pérez-Figueroa, a postdoctoral researcher in the Phylogenomics Lab at the University of Vigo. My current research here is about population genetics of tumoral cells. My background is related to conservation and population genetics as a computational biologist. I can write code (not very well) to simulate and analyze biological data for understanding its evolutionary implications.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://anpefi.eu/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/home/tags/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -94,15 +103,6 @@
       
       <guid>http://anpefi.eu/home/social_media/</guid>
       <description>My tweets</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>http://anpefi.eu/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/home/tags/</guid>
-      <description></description>
     </item>
     
     <item>

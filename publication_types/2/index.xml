@@ -6,11 +6,20 @@
     <description>Recent content in 2 on Andrés Pérez-Figueroa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrés Pérez-Figueroa</copyright>
-    <lastBuildDate>Sat, 17 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
+    <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://anpefi.eu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RNA-seq coupled to proteomic analysis reveals high sperm proteome variation between two closely related marine mussel species</title>
+      <link>http://anpefi.eu/publication/2018.romero/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2018.romero/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Morphological and epigenetic variation in mussels from contrasting environments</title>
@@ -130,11 +139,83 @@
     </item>
     
     <item>
+      <title>The Action of Purifying Selection, Mutation and Drift on Fitness Epistatic Systems</title>
+      <link>http://anpefi.eu/publication/2009.apf.epistasis/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2009.apf.epistasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>METAPOP—A software for the management and analysis of subdivided populations in conservation programs</title>
       <link>http://anpefi.eu/publication/2009.apf.metapop/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://anpefi.eu/publication/2009.apf.metapop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of two methods for analysing the biological factors contributing to assortative mating or sexual isolation</title>
+      <link>http://anpefi.eu/publication/2008.apf.ri/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2008.apf.ri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving Population Allele Frequencies in Ex Situ Conservation Programs</title>
+      <link>http://anpefi.eu/publication/2008.saura.frequencies/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2008.saura.frequencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the estimation properties of different statistics for measuring sexual isolation from mating frequencies</title>
+      <link>http://anpefi.eu/publication/2005.apf.ipsi/</link>
+      <pubDate>Fri, 24 Jun 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2005.apf.ipsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Differentiation and Estimation of Effective Population Size and Migration Rates in Two Sympatric Ecotypes of the Marine Snail Littorina saxatilis</title>
+      <link>http://anpefi.eu/publication/2005.fernandez/</link>
+      <pubDate>Wed, 20 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2005.fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolutionary forces maintaining a wild polymorphism of Littorina saxatilis: model selection by computer simulations</title>
+      <link>http://anpefi.eu/publication/2005.apf.polymorp/</link>
+      <pubDate>Mon, 04 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2005.apf.polymorp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation‐selection balance accounting for genetic variation for viability in Drosophila melanogaster as deduced from an inbreeding and artificial selection experiment</title>
+      <link>http://anpefi.eu/publication/2004.rodriguez-ramilo/</link>
+      <pubDate>Tue, 17 Feb 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2004.rodriguez-ramilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LACK OF NONADDITIVE GENETIC EFFECTS ON EARLY FECUNDITY IN DROSOPHILA MELANOGASTER</title>
+      <link>http://anpefi.eu/publication/2003.fernandez/</link>
+      <pubDate>Fri, 09 May 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2003.fernandez/</guid>
       <description></description>
     </item>
     
