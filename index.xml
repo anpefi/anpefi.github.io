@@ -11,11 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Population genomics of parallel evolution in gene expression and gene sequence during ecological adaptation</title>
+      <link>http://anpefi.eu/publication/2018.rivas/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2018.rivas/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Still in press without DOI&lt;/strong&gt;. More info to come.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RNA-seq coupled to proteomic analysis reveals high sperm proteome variation between two closely related marine mussel species</title>
       <link>http://anpefi.eu/publication/2018.romero/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://anpefi.eu/publication/2018.romero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA-seq data from mature male gonads of marine mussels *Mytilus edulis* and *M. galloprovincialis*</title>
+      <link>http://anpefi.eu/publication/2018.diz.data/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2018.diz.data/</guid>
       <description></description>
     </item>
     
@@ -135,24 +154,6 @@
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://anpefi.eu/publication/2012.vilas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis and management of gene and allelic diversity in subdivided populations using the software program METAPOP.</title>
-      <link>http://anpefi.eu/publication/2012.ch.methods/</link>
-      <pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/publication/2012.ch.methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Methylation changes associated with early maturation stages in the Atlantic salmon</title>
-      <link>http://anpefi.eu/publication/2011.moran/</link>
-      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/publication/2011.moran/</guid>
       <description></description>
     </item>
     
