@@ -4,8 +4,7 @@
     <url>
     
       <loc>http://anpefi.eu/publication_types/2/</loc>
-      <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -13,8 +12,31 @@
     <url>
     
       <loc>http://anpefi.eu/</loc>
-      <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2019.cortegano/</loc>
+      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication_types/</loc>
+      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://anpefi.eu/publication/2019.duenas/</loc>
+      <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -23,15 +45,6 @@
     
       <loc>http://anpefi.eu/publication/2019.metapop2/</loc>
       <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication_types/</loc>
-      <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -70,9 +83,24 @@
     
     <url>
     
+      <loc>http://anpefi.eu/tags/git/</loc>
+      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://anpefi.eu/tags/markdown/</loc>
+      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://anpefi.eu/post/</loc>
       <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -81,7 +109,6 @@
     
       <loc>http://anpefi.eu/tags/r/</loc>
       <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -98,25 +125,6 @@
     
       <loc>http://anpefi.eu/tags/</loc>
       <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/git/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/markdown/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -125,7 +133,6 @@
     
       <loc>http://anpefi.eu/tags/website/</loc>
       <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -238,7 +245,6 @@
     
       <loc>http://anpefi.eu/publication_types/6/</loc>
       <lastmod>2012-04-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -271,7 +277,6 @@
     
       <loc>http://anpefi.eu/publication_types/4/</loc>
       <lastmod>2010-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -320,7 +325,6 @@
     
       <loc>http://anpefi.eu/publication_types/1/</loc>
       <lastmod>2006-08-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -384,7 +388,6 @@
     <url>
     
       <loc>http://anpefi.eu/categories/</loc>
-      <priority>0</priority>
     </url>
     
   

@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>R</title>
-      <link>http://anpefi.eu/tags/r/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>git</title>
       <link>http://anpefi.eu/tags/git/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
@@ -36,6 +27,15 @@
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://anpefi.eu/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://anpefi.eu/tags/r/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/tags/r/</guid>
       <description></description>
     </item>
     

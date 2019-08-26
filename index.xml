@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
-    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Optimal management of genetic diversity in subdivided populations</title>
+      <link>http://anpefi.eu/publication/2019.cortegano/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2019.cortegano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Expression Analyses in Non Muscle Invasive Bladder Cancer Reveals a Role for Alternative Splicing and Tp53 Status</title>
+      <link>http://anpefi.eu/publication/2019.duenas/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/publication/2019.duenas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Metapop2: re‐implementation of software for the analysis and management of subdivided populations using gene and allelic diversity</title>
@@ -134,24 +152,6 @@
       <pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://anpefi.eu/publication/2013.moran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>msap: A tool for the statistical analysis of methylation-sensitive amplified polymorphism data</title>
-      <link>http://anpefi.eu/publication/2013.apf.msap/</link>
-      <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/publication/2013.apf.msap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conserving genomic variability in large mammals: Effect of population fluctuations and variance in male reproductive success on variability in Yellowstone bison</title>
-      <link>http://anpefi.eu/publication/2012.apf.bison/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/publication/2012.apf.bison/</guid>
       <description></description>
     </item>
     
