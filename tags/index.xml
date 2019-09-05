@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://anpefi.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://anpefi.eu/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://anpefi.eu/tags/r/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anpefi.eu/tags/r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>git</title>
@@ -31,30 +49,12 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>http://anpefi.eu/tags/r/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>website</title>
       <link>http://anpefi.eu/tags/website/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://anpefi.eu/tags/website/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://anpefi.eu/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
   </channel>
