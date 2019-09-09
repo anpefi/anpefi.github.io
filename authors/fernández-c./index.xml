@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernández, C. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/fern%C3%A1ndez-c./</link>
+      <atom:link href="http://anpefi.eu/authors/fern%C3%A1ndez-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernández, C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 28 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Fernández, C.</title>
+      <link>http://anpefi.eu/authors/fern%C3%A1ndez-c./</link>
+    </image>
+    
+    <item>
+      <title>Population structure and effective/census population size ratio in threatened three-spined stickleback populations from an isolated river basin in northwest Spain</title>
+      <link>http://anpefi.eu/publication/2015.apf.stickleback/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2015.apf.stickleback/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

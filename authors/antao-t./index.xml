@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antao, T. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/antao-t./</link>
+      <atom:link href="http://anpefi.eu/authors/antao-t./index.xml" rel="self" type="application/rss+xml" />
+    <description>Antao, T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Antao, T.</title>
+      <link>http://anpefi.eu/authors/antao-t./</link>
+    </image>
+    
+    <item>
+      <title>Conserving genomic variability in large mammals: Effect of population fluctuations and variance in male reproductive success on variability in Yellowstone bison</title>
+      <link>http://anpefi.eu/publication/2012.apf.bison/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2012.apf.bison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early detection of population declines: high power of genetic monitoring using effective population size estimators</title>
+      <link>http://anpefi.eu/publication/2011.antao/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2011.antao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conserving Genetic Diversity in Yellowstone Bison: Effects of population fluctuations and variance in male reproductive success in age structured populations.</title>
+      <link>http://anpefi.eu/publication/2010.tr.bison/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2010.tr.bison/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

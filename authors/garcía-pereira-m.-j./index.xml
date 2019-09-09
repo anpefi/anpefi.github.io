@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>García-Pereira, M. J. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/garc%C3%ADa-pereira-m.-j./</link>
+      <atom:link href="http://anpefi.eu/authors/garc%C3%ADa-pereira-m.-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>García-Pereira, M. J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Thu, 26 Aug 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>García-Pereira, M. J.</title>
+      <link>http://anpefi.eu/authors/garc%C3%ADa-pereira-m.-j./</link>
+    </image>
+    
+    <item>
+      <title>Comparing three different methods to detect selective loci using dominant markers</title>
+      <link>http://anpefi.eu/publication/2010.apf.outliers/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2010.apf.outliers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

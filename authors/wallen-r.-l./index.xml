@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wallen, R. L. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/wallen-r.-l./</link>
+      <atom:link href="http://anpefi.eu/authors/wallen-r.-l./index.xml" rel="self" type="application/rss+xml" />
+    <description>Wallen, R. L.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Wallen, R. L.</title>
+      <link>http://anpefi.eu/authors/wallen-r.-l./</link>
+    </image>
+    
+    <item>
+      <title>Conserving genomic variability in large mammals: Effect of population fluctuations and variance in male reproductive success on variability in Yellowstone bison</title>
+      <link>http://anpefi.eu/publication/2012.apf.bison/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2012.apf.bison/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

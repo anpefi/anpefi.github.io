@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saura, M. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/saura-m./</link>
+      <atom:link href="http://anpefi.eu/authors/saura-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Saura, M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Saura, M.</title>
+      <link>http://anpefi.eu/authors/saura-m./</link>
+    </image>
+    
+    <item>
+      <title>Population genomics of parallel evolution in gene expression and gene sequence during ecological adaptation</title>
+      <link>http://anpefi.eu/publication/2018.rivas/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2018.rivas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing three different methods to detect selective loci using dominant markers</title>
+      <link>http://anpefi.eu/publication/2010.apf.outliers/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2010.apf.outliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>METAPOP—A software for the management and analysis of subdivided populations in conservation programs</title>
+      <link>http://anpefi.eu/publication/2009.apf.metapop/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2009.apf.metapop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

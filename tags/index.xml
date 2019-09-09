@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Andrés Pérez-Figueroa</title>
+    <title>Tags | Andrés Pérez-Figueroa</title>
     <link>http://anpefi.eu/tags/</link>
-    <description>Recent content in Tags on Andrés Pérez-Figueroa</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://anpefi.eu/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://anpefi.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>http://anpefi.eu/tags/</link>
+    </image>
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://anpefi.eu/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
+      <title>Animal breeding</title>
+      <link>http://anpefi.eu/tags/animal-breeding/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/animal-breeding/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>http://anpefi.eu/tags/r/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://anpefi.eu/tags/r/</guid>
+      <title>Conservation genetics</title>
+      <link>http://anpefi.eu/tags/conservation-genetics/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/conservation-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metapop</title>
+      <link>http://anpefi.eu/tags/metapop/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/metapop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://anpefi.eu/tags/software/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/software/</guid>
       <description></description>
     </item>
     
@@ -34,7 +48,6 @@
       <title>git</title>
       <link>http://anpefi.eu/tags/git/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/tags/git/</guid>
       <description></description>
     </item>
@@ -43,8 +56,15 @@
       <title>markdown</title>
       <link>http://anpefi.eu/tags/markdown/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://anpefi.eu/tags/r/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/r/</guid>
       <description></description>
     </item>
     
@@ -52,8 +72,40 @@
       <title>website</title>
       <link>http://anpefi.eu/tags/website/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://anpefi.eu/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/academic/</guid>
+      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fish</title>
+      <link>http://anpefi.eu/tags/fish/</link>
+      <pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methylation</title>
+      <link>http://anpefi.eu/tags/methylation/</link>
+      <pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/methylation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSAP</title>
+      <link>http://anpefi.eu/tags/msap/</link>
+      <pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/msap/</guid>
       <description></description>
     </item>
     

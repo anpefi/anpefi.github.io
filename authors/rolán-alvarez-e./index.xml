@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rolán-Alvarez, E. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/rol%C3%A1n-alvarez-e./</link>
+      <atom:link href="http://anpefi.eu/authors/rol%C3%A1n-alvarez-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Rolán-Alvarez, E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Rolán-Alvarez, E.</title>
+      <link>http://anpefi.eu/authors/rol%C3%A1n-alvarez-e./</link>
+    </image>
+    
+    <item>
+      <title>Population genomics of parallel evolution in gene expression and gene sequence during ecological adaptation</title>
+      <link>http://anpefi.eu/publication/2018.rivas/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2018.rivas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing three different methods to detect selective loci using dominant markers</title>
+      <link>http://anpefi.eu/publication/2010.apf.outliers/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2010.apf.outliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of two methods for analysing the biological factors contributing to assortative mating or sexual isolation</title>
+      <link>http://anpefi.eu/publication/2008.apf.ri/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2008.apf.ri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the estimation properties of different statistics for measuring sexual isolation from mating frequencies</title>
+      <link>http://anpefi.eu/publication/2005.apf.ipsi/</link>
+      <pubDate>Fri, 24 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2005.apf.ipsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Differentiation and Estimation of Effective Population Size and Migration Rates in Two Sympatric Ecotypes of the Marine Snail Littorina saxatilis</title>
+      <link>http://anpefi.eu/publication/2005.fernandez/</link>
+      <pubDate>Wed, 20 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2005.fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolutionary forces maintaining a wild polymorphism of Littorina saxatilis: model selection by computer simulations</title>
+      <link>http://anpefi.eu/publication/2005.apf.polymorp/</link>
+      <pubDate>Mon, 04 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2005.apf.polymorp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliveira, C. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/oliveira-c./</link>
+      <atom:link href="http://anpefi.eu/authors/oliveira-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Oliveira, C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Oliveira, C.</title>
+      <link>http://anpefi.eu/authors/oliveira-c./</link>
+    </image>
+    
+    <item>
+      <title>Gene Expression Analyses in Non Muscle Invasive Bladder Cancer Reveals a Role for Alternative Splicing and Tp53 Status</title>
+      <link>http://anpefi.eu/publication/2019.duenas/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2019.duenas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

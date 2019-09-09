@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carvajal-Rodríguez, A. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/carvajal-rodr%C3%ADguez-a./</link>
+      <atom:link href="http://anpefi.eu/authors/carvajal-rodr%C3%ADguez-a./index.xml" rel="self" type="application/rss+xml" />
+    <description>Carvajal-Rodríguez, A.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Mon, 04 Apr 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Carvajal-Rodríguez, A.</title>
+      <link>http://anpefi.eu/authors/carvajal-rodr%C3%ADguez-a./</link>
+    </image>
+    
+    <item>
+      <title>The evolutionary forces maintaining a wild polymorphism of Littorina saxatilis: model selection by computer simulations</title>
+      <link>http://anpefi.eu/publication/2005.apf.polymorp/</link>
+      <pubDate>Mon, 04 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2005.apf.polymorp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

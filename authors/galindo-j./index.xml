@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galindo, J. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/galindo-j./</link>
+      <atom:link href="http://anpefi.eu/authors/galindo-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Galindo, J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Wed, 20 Apr 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Galindo, J.</title>
+      <link>http://anpefi.eu/authors/galindo-j./</link>
+    </image>
+    
+    <item>
+      <title>Genetic Differentiation and Estimation of Effective Population Size and Migration Rates in Two Sympatric Ecotypes of the Marine Snail Littorina saxatilis</title>
+      <link>http://anpefi.eu/publication/2005.fernandez/</link>
+      <pubDate>Wed, 20 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2005.fernandez/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

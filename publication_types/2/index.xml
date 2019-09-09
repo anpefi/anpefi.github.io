@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Andrés Pérez-Figueroa</title>
+    <title>2 | Andrés Pérez-Figueroa</title>
     <link>http://anpefi.eu/publication_types/2/</link>
-    <description>Recent content in 2 on Andrés Pérez-Figueroa</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://anpefi.eu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://anpefi.eu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>2</title>
+      <link>http://anpefi.eu/publication_types/2/</link>
+    </image>
     
     <item>
       <title>Optimal management of genetic diversity in subdivided populations</title>
       <link>http://anpefi.eu/publication/2019.cortegano/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2019.cortegano/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Gene Expression Analyses in Non Muscle Invasive Bladder Cancer Reveals a Role for Alternative Splicing and Tp53 Status</title>
       <link>http://anpefi.eu/publication/2019.duenas/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2019.duenas/</guid>
       <description></description>
     </item>
@@ -34,16 +32,16 @@
       <title>Metapop2: re‐implementation of software for the analysis and management of subdivided populations using gene and allelic diversity</title>
       <link>http://anpefi.eu/publication/2019.metapop2/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2019.metapop2/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1111/1755-0998.13015&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>RNA-seq coupled to proteomic analysis reveals high sperm proteome variation between two closely related marine mussel species</title>
       <link>http://anpefi.eu/publication/2019.romero/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2019.romero/</guid>
       <description></description>
     </item>
@@ -52,7 +50,6 @@
       <title>Population genomics of parallel evolution in gene expression and gene sequence during ecological adaptation</title>
       <link>http://anpefi.eu/publication/2018.rivas/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2018.rivas/</guid>
       <description></description>
     </item>
@@ -61,7 +58,6 @@
       <title>RNA-seq data from mature male gonads of marine mussels *Mytilus edulis* and *M. galloprovincialis*</title>
       <link>http://anpefi.eu/publication/2018.diz.data/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2018.diz.data/</guid>
       <description></description>
     </item>
@@ -70,7 +66,6 @@
       <title>Morphological and epigenetic variation in mussels from contrasting environments</title>
       <link>http://anpefi.eu/publication/2018.watson/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2018.watson/</guid>
       <description></description>
     </item>
@@ -79,7 +74,6 @@
       <title>On the Consequences of Purging and Linkage on Fitness and Genetic Diversity</title>
       <link>http://anpefi.eu/publication/2016.bersabe/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2016.bersabe/</guid>
       <description></description>
     </item>
@@ -88,7 +82,6 @@
       <title>Allelic diversity for neutral markers retains a higher adaptive potential for quantitative traits than expected heterozygosity</title>
       <link>http://anpefi.eu/publication/2015.vilas/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2015.vilas/</guid>
       <description></description>
     </item>
@@ -97,7 +90,6 @@
       <title>Population structure and effective/census population size ratio in threatened three-spined stickleback populations from an isolated river basin in northwest Spain</title>
       <link>http://anpefi.eu/publication/2015.apf.stickleback/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2015.apf.stickleback/</guid>
       <description></description>
     </item>
@@ -106,7 +98,6 @@
       <title>Genome-wide methylation study of diploid and triploid brown trout (*Salmo trutta* L.)</title>
       <link>http://anpefi.eu/publication/2015.covelo-soto/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2015.covelo-soto/</guid>
       <description></description>
     </item>
@@ -115,7 +106,6 @@
       <title>Conflict in outcomes for conservation based on population genetic diversity and genetic divergence approaches: a case study in the Japanese relictual conifer *Sciadopitys verticillata* (Sciadopityaceae)</title>
       <link>http://anpefi.eu/publication/2014.worth/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2014.worth/</guid>
       <description></description>
     </item>
@@ -124,7 +114,6 @@
       <title>The action of stabilizing selection, mutation, and drift on epistatic quantitative traits</title>
       <link>http://anpefi.eu/publication/2014.avila/</link>
       <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2014.avila/</guid>
       <description></description>
     </item>
@@ -133,7 +122,6 @@
       <title>Environmental induced methylation changes associated with seawater adaptation in brown trout Author links open overlay panel</title>
       <link>http://anpefi.eu/publication/2013.moran/</link>
       <pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2013.moran/</guid>
       <description></description>
     </item>
@@ -142,7 +130,6 @@
       <title>msap: A tool for the statistical analysis of methylation-sensitive amplified polymorphism data</title>
       <link>http://anpefi.eu/publication/2013.apf.msap/</link>
       <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2013.apf.msap/</guid>
       <description></description>
     </item>
@@ -151,7 +138,6 @@
       <title>Conserving genomic variability in large mammals: Effect of population fluctuations and variance in male reproductive success on variability in Yellowstone bison</title>
       <link>http://anpefi.eu/publication/2012.apf.bison/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2012.apf.bison/</guid>
       <description></description>
     </item>
@@ -160,7 +146,6 @@
       <title>A simulation study on the performance of differentiation-based methods to detect selected loci using linked neutral markers</title>
       <link>http://anpefi.eu/publication/2012.vilas/</link>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2012.vilas/</guid>
       <description></description>
     </item>
@@ -169,7 +154,6 @@
       <title>Methylation changes associated with early maturation stages in the Atlantic salmon</title>
       <link>http://anpefi.eu/publication/2011.moran/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2011.moran/</guid>
       <description></description>
     </item>
@@ -178,7 +162,6 @@
       <title>Early detection of population declines: high power of genetic monitoring using effective population size estimators</title>
       <link>http://anpefi.eu/publication/2011.antao/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2011.antao/</guid>
       <description></description>
     </item>
@@ -187,7 +170,6 @@
       <title>Comparing three different methods to detect selective loci using dominant markers</title>
       <link>http://anpefi.eu/publication/2010.apf.outliers/</link>
       <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2010.apf.outliers/</guid>
       <description></description>
     </item>
@@ -196,7 +178,6 @@
       <title>The Action of Purifying Selection, Mutation and Drift on Fitness Epistatic Systems</title>
       <link>http://anpefi.eu/publication/2009.apf.epistasis/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2009.apf.epistasis/</guid>
       <description></description>
     </item>
@@ -205,7 +186,6 @@
       <title>METAPOP—A software for the management and analysis of subdivided populations in conservation programs</title>
       <link>http://anpefi.eu/publication/2009.apf.metapop/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2009.apf.metapop/</guid>
       <description></description>
     </item>
@@ -214,7 +194,6 @@
       <title>Comparison of two methods for analysing the biological factors contributing to assortative mating or sexual isolation</title>
       <link>http://anpefi.eu/publication/2008.apf.ri/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2008.apf.ri/</guid>
       <description></description>
     </item>
@@ -223,7 +202,6 @@
       <title>Preserving Population Allele Frequencies in Ex Situ Conservation Programs</title>
       <link>http://anpefi.eu/publication/2008.saura.frequencies/</link>
       <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2008.saura.frequencies/</guid>
       <description></description>
     </item>
@@ -232,7 +210,6 @@
       <title>Comparing the estimation properties of different statistics for measuring sexual isolation from mating frequencies</title>
       <link>http://anpefi.eu/publication/2005.apf.ipsi/</link>
       <pubDate>Fri, 24 Jun 2005 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2005.apf.ipsi/</guid>
       <description></description>
     </item>
@@ -241,7 +218,6 @@
       <title>Genetic Differentiation and Estimation of Effective Population Size and Migration Rates in Two Sympatric Ecotypes of the Marine Snail Littorina saxatilis</title>
       <link>http://anpefi.eu/publication/2005.fernandez/</link>
       <pubDate>Wed, 20 Apr 2005 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2005.fernandez/</guid>
       <description></description>
     </item>
@@ -250,7 +226,6 @@
       <title>The evolutionary forces maintaining a wild polymorphism of Littorina saxatilis: model selection by computer simulations</title>
       <link>http://anpefi.eu/publication/2005.apf.polymorp/</link>
       <pubDate>Mon, 04 Apr 2005 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2005.apf.polymorp/</guid>
       <description></description>
     </item>
@@ -259,7 +234,6 @@
       <title>Mutation‐selection balance accounting for genetic variation for viability in Drosophila melanogaster as deduced from an inbreeding and artificial selection experiment</title>
       <link>http://anpefi.eu/publication/2004.rodriguez-ramilo/</link>
       <pubDate>Tue, 17 Feb 2004 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2004.rodriguez-ramilo/</guid>
       <description></description>
     </item>
@@ -268,7 +242,6 @@
       <title>LACK OF NONADDITIVE GENETIC EFFECTS ON EARLY FECUNDITY IN DROSOPHILA MELANOGASTER</title>
       <link>http://anpefi.eu/publication/2003.fernandez/</link>
       <pubDate>Fri, 09 May 2003 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2003.fernandez/</guid>
       <description></description>
     </item>

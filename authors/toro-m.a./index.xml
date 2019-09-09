@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toro, M.A. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/toro-m.a./</link>
+      <atom:link href="http://anpefi.eu/authors/toro-m.a./index.xml" rel="self" type="application/rss+xml" />
+    <description>Toro, M.A.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Sat, 01 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Toro, M.A.</title>
+      <link>http://anpefi.eu/authors/toro-m.a./</link>
+    </image>
+    
+    <item>
+      <title>METAPOP—A software for the management and analysis of subdivided populations in conservation programs</title>
+      <link>http://anpefi.eu/publication/2009.apf.metapop/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2009.apf.metapop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving Population Allele Frequencies in Ex Situ Conservation Programs</title>
+      <link>http://anpefi.eu/publication/2008.saura.frequencies/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2008.saura.frequencies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

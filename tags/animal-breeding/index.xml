@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animal breeding | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/tags/animal-breeding/</link>
+      <atom:link href="http://anpefi.eu/tags/animal-breeding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Animal breeding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Animal breeding</title>
+      <link>http://anpefi.eu/tags/animal-breeding/</link>
+    </image>
+    
+    <item>
+      <title>Metapop2: re‐implementation of software for the analysis and management of subdivided populations using gene and allelic diversity</title>
+      <link>http://anpefi.eu/publication/2019.metapop2/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2019.metapop2/</guid>
+      <description>&lt;p&gt;&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1111/1755-0998.13015&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

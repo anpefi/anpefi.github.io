@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ávila, V. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/%C3%A1vila-v./</link>
+      <atom:link href="http://anpefi.eu/authors/%C3%A1vila-v./index.xml" rel="self" type="application/rss+xml" />
+    <description>Ávila, V.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Mon, 05 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Ávila, V.</title>
+      <link>http://anpefi.eu/authors/%C3%A1vila-v./</link>
+    </image>
+    
+    <item>
+      <title>The action of stabilizing selection, mutation, and drift on epistatic quantitative traits</title>
+      <link>http://anpefi.eu/publication/2014.avila/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2014.avila/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

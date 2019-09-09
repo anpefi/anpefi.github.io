@@ -1,416 +1,649 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2019.cortegano/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/p%C3%A9rez-figueroa-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2019.duenas/</loc>
-      <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication_types/2/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2019.metapop2/</loc>
-      <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2019.romero/</loc>
-      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2018.rivas/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/caballero-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2018.diz.data/</loc>
-      <lastmod>2018-09-04T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/fern%C3%A1ndez-j./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2018.watson/</loc>
-      <lastmod>2018-02-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/labrador-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/post/redesigning-the-website/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/l%C3%B3pez-cortegano-e./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication/2019.cortegano/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/pouso-r./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication_types/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2016.bersabe/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/due%C3%B1as-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2015.vilas/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication/2019.duenas/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2015.apf.stickleback/</loc>
-      <lastmod>2015-04-28T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/mart%C3%ADnez-fern%C3%A1ndez-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2015.covelo-soto/</loc>
-      <lastmod>2015-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/oliveira-c./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2014.worth/</loc>
-      <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/oliveira-p./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2014.avila/</loc>
-      <lastmod>2014-05-05T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/paramio-j.m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2013.moran/</loc>
-      <lastmod>2013-05-10T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/souza-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2013.apf.msap/</loc>
-      <lastmod>2013-01-11T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/su%C3%A1rez-cabrera-c./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2012.apf.bison/</loc>
-      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/villacampa-f./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2012.vilas/</loc>
-      <lastmod>2012-05-03T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/animal-breeding/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2012.ch.methods/</loc>
-      <lastmod>2012-04-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/conservation-genetics/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2011.moran/</loc>
-      <lastmod>2011-10-07T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/metapop/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2011.antao/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication/2019.metapop2/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2010.apf.outliers/</loc>
-      <lastmod>2010-08-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/software/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2010.tr.bison/</loc>
-      <lastmod>2010-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2009.apf.epistasis/</loc>
-      <lastmod>2009-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/carrera-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2009.apf.metapop/</loc>
-      <lastmod>2009-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/diz-a.p./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2008.apf.ri/</loc>
-      <lastmod>2008-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication/2019.romero/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2008.saura.frequencies/</loc>
-      <lastmod>2008-09-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/romero-m.r./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2006.proc.apf/</loc>
-      <lastmod>2006-08-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/skibinski-d.o.f./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2005.apf.ipsi/</loc>
-      <lastmod>2005-06-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/swanson-w.j./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2005.fernandez/</loc>
-      <lastmod>2005-04-20T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/andr%C3%A9-c./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2005.apf.polymorp/</loc>
-      <lastmod>2005-04-04T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/johannesson-k./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2004.rodriguez-ramilo/</loc>
-      <lastmod>2004-02-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/johansson-t./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2003.fernandez/</loc>
-      <lastmod>2003-05-09T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/panova-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication/2002.proc.apf/</loc>
-      <lastmod>2002-08-19T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication/2018.rivas/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication_types/1/</loc>
-      <lastmod>2006-08-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/quesada-h./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication_types/2/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/rivas-m.j./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication_types/4/</loc>
-      <lastmod>2010-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/rol%C3%A1n-alvarez-e./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication_types/6/</loc>
-      <lastmod>2012-04-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/saura-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/</loc>
-      <lastmod>2017-10-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication/2018.diz.data/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/baldanzi-s./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/post/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/gouws-g./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/publication_types/</loc>
-      <lastmod>2006-08-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/publication/2018.watson/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/r/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/porri-f./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/authors/watson-r.g.a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/git/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/git/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/markdown/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/markdown/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://anpefi.eu/tags/website/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://anpefi.eu/tags/r/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/post/redesigning-the-website/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/tags/website/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/tags/academic/</loc>
+    <lastmod>2017-12-22T19:16:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/talk/</loc>
+    <lastmod>2017-12-22T19:16:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/bersab%C3%A9-d./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/garc%C3%ADa-dorado-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2016.bersabe/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2015.vilas/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/vilas-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/amaro-r./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/fern%C3%A1ndez-c./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/hermida-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2015.apf.stickleback/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/san-miguel-e./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/covelo-soto-l./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2015.covelo-soto/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/leunda-p.-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/mor%C3%A1n-p./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2014.worth/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/isagi-y./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/janes-j.-k./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/tomaru-n./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/tsumura-y./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/worth-j.-r.-p./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/yokogawa-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/hill-w.-g./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/l%C3%B3pez-fanjul-c./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2014.avila/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/%C3%A1vila-v./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2013.moran/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/tags/fish/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/marco-rius-f./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/meg%C3%ADas-m./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/tags/methylation/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/tags/msap/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2013.apf.msap/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/antao-t./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2012.apf.bison/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/coombs-j.-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/luikart-g./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/schwartz-m.-k./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/wallen-r.-l./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/white-p.-j./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2012.vilas/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication_types/6/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2012.ch.methods/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/rodr%C3%ADguez-ramilo-s.t./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2011.moran/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2011.antao/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2010.apf.outliers/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/garc%C3%ADa-pereira-m.-j./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication_types/4/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2010.tr.bison/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/coombs-j.a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2009.apf.epistasis/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2009.apf.metapop/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/toro-m.a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2008.apf.ri/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/conde-pad%C3%ADn-p./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/de-u%C3%B1a-alvarez-j./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2008.saura.frequencies/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/saura-m/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication_types/1/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2006.proc.apf/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2005.apf.ipsi/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/fern%C3%A1ndez-b./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/galindo-j./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2005.fernandez/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/carvajal-rodr%C3%ADguez-a./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/cruz-f./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2005.apf.polymorp/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2004.rodriguez-ramilo/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2003.fernandez/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/lopez-fanjul-c./</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/2002.proc.apf/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/authors/anpefi/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/post/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anpefi.eu/publication/</loc>
+    <lastmod>2019-09-09T16:17:35+02:00</lastmod>
+  </url>
   
 </urlset>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernández, J. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/fern%C3%A1ndez-j./</link>
+      <atom:link href="http://anpefi.eu/authors/fern%C3%A1ndez-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernández, J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Fernández, J.</title>
+      <link>http://anpefi.eu/authors/fern%C3%A1ndez-j./</link>
+    </image>
+    
+    <item>
+      <title>Optimal management of genetic diversity in subdivided populations</title>
+      <link>http://anpefi.eu/publication/2019.cortegano/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2019.cortegano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>METAPOP—A software for the management and analysis of subdivided populations in conservation programs</title>
+      <link>http://anpefi.eu/publication/2009.apf.metapop/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2009.apf.metapop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving Population Allele Frequencies in Ex Situ Conservation Programs</title>
+      <link>http://anpefi.eu/publication/2008.saura.frequencies/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2008.saura.frequencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in genetic parameters for fitness-related traits in a captive population of Drosophila melanogaster</title>
+      <link>http://anpefi.eu/publication/2006.proc.apf/</link>
+      <pubDate>Sun, 13 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2006.proc.apf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Differentiation and Estimation of Effective Population Size and Migration Rates in Two Sympatric Ecotypes of the Marine Snail Littorina saxatilis</title>
+      <link>http://anpefi.eu/publication/2005.fernandez/</link>
+      <pubDate>Wed, 20 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2005.fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation‐selection balance accounting for genetic variation for viability in Drosophila melanogaster as deduced from an inbreeding and artificial selection experiment</title>
+      <link>http://anpefi.eu/publication/2004.rodriguez-ramilo/</link>
+      <pubDate>Tue, 17 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2004.rodriguez-ramilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LACK OF NONADDITIVE GENETIC EFFECTS ON EARLY FECUNDITY IN DROSOPHILA MELANOGASTER</title>
+      <link>http://anpefi.eu/publication/2003.fernandez/</link>
+      <pubDate>Fri, 09 May 2003 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2003.fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferences on the nature of genetic variation for viability from artificial selection and inbreeding in Drosophila.</title>
+      <link>http://anpefi.eu/publication/2002.proc.apf/</link>
+      <pubDate>Mon, 19 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2002.proc.apf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

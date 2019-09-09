@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 on Andrés Pérez-Figueroa</title>
+    <title>6 | Andrés Pérez-Figueroa</title>
     <link>http://anpefi.eu/publication_types/6/</link>
-    <description>Recent content in 6 on Andrés Pérez-Figueroa</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrés Pérez-Figueroa</copyright>
-    <lastBuildDate>Tue, 24 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://anpefi.eu/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://anpefi.eu/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 24 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>6</title>
+      <link>http://anpefi.eu/publication_types/6/</link>
+    </image>
     
     <item>
       <title>Analysis and management of gene and allelic diversity in subdivided populations using the software program METAPOP.</title>
       <link>http://anpefi.eu/publication/2012.ch.methods/</link>
       <pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate>
-      
       <guid>http://anpefi.eu/publication/2012.ch.methods/</guid>
       <description></description>
     </item>

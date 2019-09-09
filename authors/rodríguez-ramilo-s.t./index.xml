@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodríguez-Ramilo, S.T. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/rodr%C3%ADguez-ramilo-s.t./</link>
+      <atom:link href="http://anpefi.eu/authors/rodr%C3%ADguez-ramilo-s.t./index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodríguez-Ramilo, S.T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 24 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Rodríguez-Ramilo, S.T.</title>
+      <link>http://anpefi.eu/authors/rodr%C3%ADguez-ramilo-s.t./</link>
+    </image>
+    
+    <item>
+      <title>Analysis and management of gene and allelic diversity in subdivided populations using the software program METAPOP.</title>
+      <link>http://anpefi.eu/publication/2012.ch.methods/</link>
+      <pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2012.ch.methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in genetic parameters for fitness-related traits in a captive population of Drosophila melanogaster</title>
+      <link>http://anpefi.eu/publication/2006.proc.apf/</link>
+      <pubDate>Sun, 13 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2006.proc.apf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation‐selection balance accounting for genetic variation for viability in Drosophila melanogaster as deduced from an inbreeding and artificial selection experiment</title>
+      <link>http://anpefi.eu/publication/2004.rodriguez-ramilo/</link>
+      <pubDate>Tue, 17 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2004.rodriguez-ramilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LACK OF NONADDITIVE GENETIC EFFECTS ON EARLY FECUNDITY IN DROSOPHILA MELANOGASTER</title>
+      <link>http://anpefi.eu/publication/2003.fernandez/</link>
+      <pubDate>Fri, 09 May 2003 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2003.fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferences on the nature of genetic variation for viability from artificial selection and inbreeding in Drosophila.</title>
+      <link>http://anpefi.eu/publication/2002.proc.apf/</link>
+      <pubDate>Mon, 19 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2002.proc.apf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

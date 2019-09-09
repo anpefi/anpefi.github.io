@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannesson, K. | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/authors/johannesson-k./</link>
+      <atom:link href="http://anpefi.eu/authors/johannesson-k./index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannesson, K.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://anpefi.eu/img/icon-192.png</url>
+      <title>Johannesson, K.</title>
+      <link>http://anpefi.eu/authors/johannesson-k./</link>
+    </image>
+    
+    <item>
+      <title>Population genomics of parallel evolution in gene expression and gene sequence during ecological adaptation</title>
+      <link>http://anpefi.eu/publication/2018.rivas/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2018.rivas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
