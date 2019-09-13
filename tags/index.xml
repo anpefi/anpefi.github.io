@@ -5,7 +5,7 @@
     <link>http://anpefi.eu/tags/</link>
       <atom:link href="http://anpefi.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://anpefi.eu/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Animal breeding</title>
       <link>http://anpefi.eu/tags/animal-breeding/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       <guid>http://anpefi.eu/tags/animal-breeding/</guid>
       <description></description>
     </item>
@@ -23,16 +23,32 @@
     <item>
       <title>Conservation genetics</title>
       <link>http://anpefi.eu/tags/conservation-genetics/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       <guid>http://anpefi.eu/tags/conservation-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic diversity</title>
+      <link>http://anpefi.eu/tags/genetic-diversity/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/genetic-diversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metapop</title>
       <link>http://anpefi.eu/tags/metapop/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       <guid>http://anpefi.eu/tags/metapop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paper</title>
+      <link>http://anpefi.eu/tags/paper/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/tags/paper/</guid>
       <description></description>
     </item>
     

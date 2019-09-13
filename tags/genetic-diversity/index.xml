@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Andrés Pérez-Figueroa</title>
-    <link>http://anpefi.eu/post/</link>
-      <atom:link href="http://anpefi.eu/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Genetic diversity | Andrés Pérez-Figueroa</title>
+    <link>http://anpefi.eu/tags/genetic-diversity/</link>
+      <atom:link href="http://anpefi.eu/tags/genetic-diversity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetic diversity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://anpefi.eu/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>http://anpefi.eu/post/</link>
+      <title>Genetic diversity</title>
+      <link>http://anpefi.eu/tags/genetic-diversity/</link>
     </image>
     
     <item>
@@ -26,25 +26,6 @@
 &lt;p&gt;Our results suggest that maximization of allelic diversity can be more efficient in maintaining the genetic diversity of subdivided populations than maximization of expected heterozygosity because the former maintains a larger number of alleles while making a better control of inbreeding. Thus, maximization of allelic diversity should be a recommended strategy in conservation programs for structured populations.&lt;/p&gt;
 
 &lt;p&gt;This is a quite old work that a student, Adriana Labrador, started as a master thesis that I have co-directed in 2012 (science is sometimes very slow.) That preliminary work was later continued by another student, Ramón Pouso, in his undergraduate thesis, which I also co-directed, in 2014. The results were interesting but there was still a lot of work to do to to obtain solid conclusions, but just then I left Armando Caballero&amp;rsquo;s lab and my time for this type of collateral projects decreased drastically. Thus, the subject was parked for a couple of years, until Eugenio López-Cortegano arrived at Caballero&amp;rsquo;s lab as a postdoc, taking care of old tasks that I had left pending, such as the improvement of the software &lt;a href=&#34;https://doi.org/10.1111/1755-0998.13015&#34; target=&#34;_blank&#34;&gt;metapop2&lt;/a&gt; or this study (that heavely rely on the use of metapop). Eugenio did a good job that resulted both tasks have respective publications this year, successfully completing tasks that were left pending and to which I could hardly devote time enough to them.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Redesigning the website</title>
-      <link>http://anpefi.eu/post/redesigning-the-website/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://anpefi.eu/post/redesigning-the-website/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve changed the website design.&lt;/p&gt;
-
-&lt;p&gt;For the last 2 years this site was relying on the &lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;Jekyll framework&lt;/a&gt; using the &lt;a href=&#34;https://mmistakes.github.io/minimal-mistakes/&#34; target=&#34;_blank&#34;&gt;Minimal Mistakes template&lt;/a&gt;. Recently, I started to dive deeper in &lt;a href=&#34;https://www.rstudio.com&#34; target=&#34;_blank&#34;&gt;Rstudio&lt;/a&gt;, &lt;a href=&#34;http://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;rmarkdown&lt;/a&gt; and the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;tidyverse&lt;/a&gt; ecosystem. Few days ago I discovered in Twitter about the new Yihui Xie&amp;rsquo;s package called &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; that allows to create static websites using Rmarkdown and &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;. After a quick read of the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;Xie&amp;rsquo;s book about this package&lt;/a&gt; I decided to change this website from Markdown+Jekyll to Rmarkdown+Blogdown+Hugo. Of course, the migration is quite easy as this website was almost empty and unchanged for these 2 years. In fact, this decision was boosted by the fact that I was trying to update Jekyll and found some troubles with ruby dependencies. Furthermore, the chapter 3.4 of the Xie&amp;rsquo;s book gave me the idea to avoid relying on having everything installed on the computer: using &lt;a href=&#34;https://travis-ci.org/&#34; target=&#34;_blank&#34;&gt;Travis CI&lt;/a&gt; to make the deployment to &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt; (where the website was already hosted in the repo &lt;a href=&#34;https://github.com/anpefi/anpefi.github.io&#34; target=&#34;_blank&#34;&gt;anpefi/anpefi.github.io&lt;/a&gt;). Although I already used Travis-CI for some of my programs, I did not use it to do the deployment. I was curious about how it would work and to pass this website to that system would allow me to practice. For this I had to create a new repository (&lt;a href=&#34;https://github.com/anpefi/anpefi.source&#34; target=&#34;_blank&#34;&gt;anpefi/anpefi-source&lt;/a&gt;) for the sources of the page, which, with each commit in the master, will be built in Travis-CI and the static html deployed in anpefi.github.io.&lt;/p&gt;
-
-&lt;p&gt;This is how the site looked in the last 2 years:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://anpefi.eu/img/posts/old.website.png&#34; alt=&#34;old layout&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, I use the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic template&lt;/a&gt; for Hugo that I think it looks great for a site like this. What do you think? Leave me your comments below.&lt;/p&gt;
-
-&lt;p&gt;My first impressions about the change from Jekyll to Hugo are very positive, and now it is easier to do everything from one place (Rstudio) and the pages are generated much faster and with a lighter load. The deployment via Travis also has an additional advantage, and that is that I do not depend on having the installation of R or Hugo on a computer. Now I can add content directly from the github website or from the mobile. It seems that the change has been a success. Now I just have to motivate myself to write some posts from time to time, but that&amp;rsquo;s another bussiness.&lt;/p&gt;
 </description>
     </item>
     
