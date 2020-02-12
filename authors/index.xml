@@ -5,7 +5,7 @@
     <link>http://anpefi.eu/authors/</link>
       <atom:link href="http://anpefi.eu/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Andrés Pérez-Figueroa</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://anpefi.eu/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,40 @@
     <item>
       <title>**Pérez-Figueroa, A.**</title>
       <link>http://anpefi.eu/authors/p%C3%A9rez-figueroa-a./</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>http://anpefi.eu/authors/p%C3%A9rez-figueroa-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hernández-Urcera, J.</title>
+      <link>http://anpefi.eu/authors/hern%C3%A1ndez-urcera-j./</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/authors/hern%C3%A1ndez-urcera-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morán, P.</title>
+      <link>http://anpefi.eu/authors/mor%C3%A1n-p./</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/authors/mor%C3%A1n-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotllant, J.</title>
+      <link>http://anpefi.eu/authors/rotllant-j./</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/authors/rotllant-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suarez-Bregua, P.</title>
+      <link>http://anpefi.eu/authors/suarez-bregua-p./</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/authors/suarez-bregua-p./</guid>
       <description></description>
     </item>
     
@@ -329,14 +361,6 @@
       <link>http://anpefi.eu/authors/leunda-p.-m./</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>http://anpefi.eu/authors/leunda-p.-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Morán, P.</title>
-      <link>http://anpefi.eu/authors/mor%C3%A1n-p./</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://anpefi.eu/authors/mor%C3%A1n-p./</guid>
       <description></description>
     </item>
     

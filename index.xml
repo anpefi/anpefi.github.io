@@ -5,7 +5,7 @@
     <link>http://anpefi.eu/</link>
       <atom:link href="http://anpefi.eu/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrés Pérez-Figueroa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Andrés Pérez-Figueroa</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://anpefi.eu/img/icon-192.png</url>
       <title>Andrés Pérez-Figueroa</title>
@@ -13,20 +13,20 @@
     </image>
     
     <item>
+      <title>Publications</title>
+      <link>http://anpefi.eu/publication/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>http://anpefi.eu/post/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       <guid>http://anpefi.eu/post/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://anpefi.eu/publication/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://anpefi.eu/publication/</guid>
-      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
-</description>
     </item>
     
     <item>

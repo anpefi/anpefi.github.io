@@ -5,12 +5,20 @@
     <link>http://anpefi.eu/publication_types/2/</link>
       <atom:link href="http://anpefi.eu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Andrés Pérez-Figueroa</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://anpefi.eu/img/icon-192.png</url>
       <title>2</title>
       <link>http://anpefi.eu/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Temperature-independent genome-wide DNA methylation profile in turbot post-embryonic development</title>
+      <link>http://anpefi.eu/publication/2020.suarez-bregua/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2020.suarez-bregua/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal management of genetic diversity in subdivided populations</title>

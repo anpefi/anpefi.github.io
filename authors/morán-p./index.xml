@@ -5,12 +5,20 @@
     <link>http://anpefi.eu/authors/mor%C3%A1n-p./</link>
       <atom:link href="http://anpefi.eu/authors/mor%C3%A1n-p./index.xml" rel="self" type="application/rss+xml" />
     <description>Morán, P.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2019` Andrés Pérez-Figueroa</copyright><lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Andrés Pérez-Figueroa</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://anpefi.eu/img/icon-192.png</url>
       <title>Morán, P.</title>
       <link>http://anpefi.eu/authors/mor%C3%A1n-p./</link>
     </image>
+    
+    <item>
+      <title>Temperature-independent genome-wide DNA methylation profile in turbot post-embryonic development</title>
+      <link>http://anpefi.eu/publication/2020.suarez-bregua/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://anpefi.eu/publication/2020.suarez-bregua/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genome-wide methylation study of diploid and triploid brown trout (*Salmo trutta* L.)</title>
